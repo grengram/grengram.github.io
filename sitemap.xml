@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://crn70.ru/index.html</loc>
+    <lastmod>2017-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://crn70.ru/images/b16c4f7750d6cb7690e7fcc8e3430fad.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crn70.ru/images/moneybag_diner_13355.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crn70.ru/images/close_13207.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crn70.ru/images/living.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crn70.ru/images/012-earth-globe.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crn70.ru/images/009-percentage.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crn70.ru/images/001-parents.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crn70.ru/images/005-handshake.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crn70.ru/images/013-present.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://crn70.ru/assets/biblioteka-lp.mulib</loc>
+    <lastmod>2017-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

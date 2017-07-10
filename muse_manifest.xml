@@ -1,0 +1,79 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://crn70.ru" resolutions="1x" timestamp="1499676046247">
+  <folder name="css">
+    <file name="site_global.css" crc="249343267"/>
+    <file name="index.css" crc="4215226898" ref="index"/>
+    <file name="iefonts_index.css" crc="3938025629" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="biblioteka-lp.mulib" crc="102735812" seo="true" mt="1499337459000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="46400467" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="436936948" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index"/>
+    <file name="webpro.js" crc="4152390327" ref="index"/>
+    <file name="form_check.php" crc="4286608207" ref="index"/>
+    <file name="form_throttle.php" crc="313199896" ref="index"/>
+    <file name="form_process.php" crc="3855659497" ref="index"/>
+    <file name="form-u426.php" crc="142589473" ref="index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="index"/>
+    <file name="form-u1273.php" crc="404070675" ref="index"/>
+    <file name="form-u1817.php" crc="4133380147" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="407_3.jpg" crc="489497327" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="school01.jpg" crc="4268691148" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="267_gorki.jpg" crc="224598958" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0baa11a44b280046c27fea2f627dce8c_.jpg" crc="477658932" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dscf0465.jpg" crc="381568039" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dscf0487.jpg" crc="450062170" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b16c4f7750d6cb7690e7fcc8e3430fad.jpg" crc="4227247076" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="moneybag_diner_13355.png" crc="4175522413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close_13207.png" crc="456708055" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="living.png" crc="4128078123" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="012-earth-globe.png" crc="3942047075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="009-percentage.png" crc="3831720285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="001-parents.png" crc="4122876639" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="005-handshake.png" crc="3937384944" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="013-present.png" crc="3962538034" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3941403684" seo="true" mt="1499675554904" redirect="true"/>
+</manifest>
