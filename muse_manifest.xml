@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://crn70.ru" resolutions="1x" timestamp="1499676046247">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://crn70.ru" resolutions="1x" timestamp="1499681584885">
   <folder name="css">
     <file name="site_global.css" crc="249343267"/>
-    <file name="index.css" crc="4215226898" ref="index"/>
-    <file name="iefonts_index.css" crc="3938025629" ref="index"/>
+    <file name="index.css" crc="3840735802" ref="index"/>
+    <file name="iefonts_index.css" crc="230868573" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="biblioteka-lp.mulib" crc="102735812" seo="true" mt="1499337459000"/>
@@ -26,6 +26,7 @@
     <file name="form-u1817.php" crc="4133380147" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="410690402" ref="index"/>
     <file name="require.js" crc="85721165" ref="index"/>
+    <file name="form-u2366.php" crc="4293478632" ref="index"/>
   </folder>
   <folder name="images">
     <file name="407_3.jpg" crc="489497327" ref="index">
@@ -74,6 +75,15 @@
     <file name="013-present.png" crc="3962538034" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="003-placeholder.png" crc="384377487" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="004-smartphone-call.png" crc="56325178" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="001-mail.png" crc="4261077726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3941403684" seo="true" mt="1499675554904" redirect="true"/>
+  <file name="index.html" crc="3961395955" seo="true" mt="1499681361388" redirect="true"/>
 </manifest>

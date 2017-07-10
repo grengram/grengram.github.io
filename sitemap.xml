@@ -32,6 +32,15 @@
     <image:image>
       <image:loc>http://crn70.ru/images/013-present.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://crn70.ru/images/003-placeholder.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crn70.ru/images/004-smartphone-call.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://crn70.ru/images/001-mail.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://crn70.ru/assets/biblioteka-lp.mulib</loc>
