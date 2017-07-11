@@ -35,18 +35,17 @@ $form = array(
 			'order' => 1,
 			'type' => 'string',
 			'label' => 'Имя',
-			'required' => true,
+			'required' => false,
 			'errors' => array(
-				'required' => 'Поле \'Имя\' не может быть пустым.'
 			)
 		),
 		'custom_U478' => array(
 			'order' => 2,
 			'type' => 'string',
-			'label' => 'Сотовый телефон',
+			'label' => 'Телефон*',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Поле \'Сотовый телефон\' не может быть пустым.'
+				'required' => 'Поле \'Телефон*\' не может быть пустым.'
 			)
 		)
 	)

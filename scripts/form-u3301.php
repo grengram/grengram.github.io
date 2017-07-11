@@ -35,9 +35,8 @@ $form = array(
 			'order' => 1,
 			'type' => 'string',
 			'label' => 'Имя',
-			'required' => true,
+			'required' => false,
 			'errors' => array(
-				'required' => 'Поле \'Имя\' не может быть пустым.'
 			)
 		),
 		'Email' => array(

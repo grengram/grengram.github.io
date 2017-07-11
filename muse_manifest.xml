@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://crn70.ru" resolutions="1x" timestamp="1499772500751">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://crn70.ru" resolutions="1x" timestamp="1499790781024">
   <folder name="css">
     <file name="site_global.css" crc="249343267"/>
-    <file name="index.css" crc="193288517" ref="index"/>
-    <file name="iefonts_index.css" crc="216146164" ref="index"/>
+    <file name="index.css" crc="3946204427" ref="index"/>
+    <file name="iefonts_index.css" crc="142254287" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="biblioteka-lp.mulib" crc="102735812" seo="true" mt="1499337459000"/>
@@ -20,16 +20,16 @@
     <file name="form_check.php" crc="4286608207" ref="index"/>
     <file name="form_throttle.php" crc="313199896" ref="index"/>
     <file name="form_process.php" crc="3855659497" ref="index"/>
-    <file name="form-u426.php" crc="142589473" ref="index"/>
+    <file name="form-u426.php" crc="3777617518" ref="index"/>
     <file name="musewpslideshow.js" crc="380562115" ref="index"/>
     <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
     <file name="touchswipe.js" crc="4228958816" ref="index"/>
-    <file name="form-u1817.php" crc="4133380147" ref="index"/>
+    <file name="form-u1817.php" crc="4254422027" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="410690402" ref="index"/>
     <file name="require.js" crc="85721165" ref="index"/>
     <file name="form-u2366.php" crc="4293478632" ref="index"/>
-    <file name="form-u2796.php" crc="3796166014" ref="index"/>
-    <file name="form-u3301.php" crc="529020051" ref="index"/>
+    <file name="form-u2796.php" crc="144106241" ref="index"/>
+    <file name="form-u3301.php" crc="4283922038" ref="index"/>
   </folder>
   <folder name="images">
     <file name="407_3.jpg" crc="489497327" ref="index">
@@ -59,7 +59,6 @@
     <file name="living.png" crc="4066920551" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="012-earth-globe.png" crc="4034456844" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -75,27 +74,30 @@
     <file name="013-present.png" crc="4059817438" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="003-placeholder.png" crc="384377487" seo="true" ref="index">
+    <file name="003-placeholder.png" crc="4002640741" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="004-smartphone-call.png" crc="56325178" seo="true" ref="index">
+    <file name="004-smartphone-call.png" crc="4134270544" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="001-mail.png" crc="4261077726" seo="true" ref="index">
+    <file name="001-mail.png" crc="262036335" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="логотип без наименования.png" crc="3879125651" seo="true" ref="index">
+    <file name="логотип без наименования.png" crc="70041336" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="52.png" crc="114342482" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="31.png" crc="63232498" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="39.png" crc="419380453" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="127660741" seo="true" mt="1499772383099" redirect="true"/>
+  <file name="index.html" crc="3868690163" seo="true" mt="1499790577275" redirect="true"/>
 </manifest>
