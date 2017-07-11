@@ -1,11 +1,13 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://crn70.ru" resolutions="1x" timestamp="1499681584885">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://crn70.ru" resolutions="1x" timestamp="1499772500751">
   <folder name="css">
     <file name="site_global.css" crc="249343267"/>
-    <file name="index.css" crc="3840735802" ref="index"/>
-    <file name="iefonts_index.css" crc="230868573" ref="index"/>
+    <file name="index.css" crc="193288517" ref="index"/>
+    <file name="iefonts_index.css" crc="216146164" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="biblioteka-lp.mulib" crc="102735812" seo="true" mt="1499337459000"/>
+    <file name="bt1.png" crc="531952758" seo="true" mt="1415017940000"/>
+    <file name="form1.php" crc="453608562" seo="true" mt="1415023896000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -22,11 +24,12 @@
     <file name="musewpslideshow.js" crc="380562115" ref="index"/>
     <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
     <file name="touchswipe.js" crc="4228958816" ref="index"/>
-    <file name="form-u1273.php" crc="404070675" ref="index"/>
     <file name="form-u1817.php" crc="4133380147" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="410690402" ref="index"/>
     <file name="require.js" crc="85721165" ref="index"/>
     <file name="form-u2366.php" crc="4293478632" ref="index"/>
+    <file name="form-u2796.php" crc="3796166014" ref="index"/>
+    <file name="form-u3301.php" crc="529020051" ref="index"/>
   </folder>
   <folder name="images">
     <file name="407_3.jpg" crc="489497327" ref="index">
@@ -47,32 +50,29 @@
     <file name="dscf0487.jpg" crc="450062170" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="b16c4f7750d6cb7690e7fcc8e3430fad.jpg" crc="4227247076" seo="true" ref="index">
+    <file name="moneybag_diner_13355.png" crc="317515335" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="moneybag_diner_13355.png" crc="4175522413" seo="true" ref="index">
+    <file name="close_13207.png" crc="530323177" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="close_13207.png" crc="456708055" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="living.png" crc="4128078123" seo="true" ref="index">
+    <file name="living.png" crc="4066920551" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="012-earth-globe.png" crc="3942047075" seo="true" ref="index">
+    <file name="012-earth-globe.png" crc="4034456844" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="009-percentage.png" crc="3831720285" seo="true" ref="index">
+    <file name="009-percentage.png" crc="4261756624" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="001-parents.png" crc="4122876639" seo="true" ref="index">
+    <file name="001-parents.png" crc="433855983" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="005-handshake.png" crc="3937384944" seo="true" ref="index">
+    <file name="005-handshake.png" crc="380025284" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="013-present.png" crc="3962538034" seo="true" ref="index">
+    <file name="013-present.png" crc="4059817438" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="003-placeholder.png" crc="384377487" seo="true" ref="index">
@@ -84,6 +84,18 @@
     <file name="001-mail.png" crc="4261077726" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="логотип без наименования.png" crc="3879125651" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="52.png" crc="114342482" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31.png" crc="63232498" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="39.png" crc="419380453" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3961395955" seo="true" mt="1499681361388" redirect="true"/>
+  <file name="index.html" crc="127660741" seo="true" mt="1499772383099" redirect="true"/>
 </manifest>

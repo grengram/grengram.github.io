@@ -31,7 +31,7 @@ $form = array(
 		'to' => ''
 	),
 	'fields' => array(
-		'custom_U1278' => array(
+		'custom_U3310' => array(
 			'order' => 1,
 			'type' => 'string',
 			'label' => 'Имя',
@@ -48,14 +48,6 @@ $form = array(
 			'errors' => array(
 				'required' => 'Поле \'Электронная почта\' не может быть пустым.',
 				'format' => 'Поле \'Электронная почта\' содержит недействительное сообщение эл. почты.'
-			)
-		),
-		'custom_U1274' => array(
-			'order' => 3,
-			'type' => 'string',
-			'label' => 'Сообщение',
-			'required' => false,
-			'errors' => array(
 			)
 		)
 	)
